@@ -35,24 +35,24 @@ Mission: To provide convenient, transparent, and quick ride-hailing services thr
 # Real-World Problems Solved by OLA
 
 1. Urban Transportation
-         - Challenge: Difficulty in finding safe and reliable transport.
-         - Solution: OLA connects passengers with nearby drivers quickly and efficiently through a user-friendly app.
+- Challenge: Difficulty in finding safe and reliable transport.
+- Solution: OLA connects passengers with nearby drivers quickly and efficiently through a user-friendly app.
 
 2. Traffic Congestion
-         - Challenge: High traffic volumes increase travel time and pollution.
-         - Solution: OLA encourages ride-sharing, reducing the number of vehicles on the road.
+- Challenge: High traffic volumes increase travel time and pollution.
+- Solution: OLA encourages ride-sharing, reducing the number of vehicles on the road.
 
 3. Safety Concerns
-         - Challenge: Passengers and drivers require a safe environment.
-         - Solution: OLA offers features like real-time tracking, SOS buttons, and driver ratings to enhance safety.
+- Challenge: Passengers and drivers require a safe environment.
+- Solution: OLA offers features like real-time tracking, SOS buttons, and driver ratings to enhance safety.
 
 4. Payment Inconveniences
-         - Challenge: Handling cash or complex payments.
-         - Solution: OLA's cashless payment system simplifies transactions and increases convenience.
+- Challenge: Handling cash or complex payments.
+- Solution: OLA's cashless payment system simplifies transactions and increases convenience.
 
 5. Employment Opportunities
-         - Challenge: Lack of flexible job opportunities.
-         - Solution: OLA provides drivers the flexibility to work on their own schedule, supporting financial independence.
+- Challenge: Lack of flexible job opportunities.
+- Solution: OLA provides drivers the flexibility to work on their own schedule, supporting financial independence.
 
 # OLA Business Strategy
 
@@ -80,6 +80,7 @@ The data architecture of OLA involves multiple entities, including Users, Driver
 
 # ER Diagram
 The ER diagram represents the relationships between Users, Drivers, Rides, Payments, Ratings, and Locations within OLA's database schema. It highlights how different components of the platform interact to provide seamless ride-hailing services.
+
 ![View ER Diagram](ER Diagram.png)
 
 # Conclusion
