@@ -1,7 +1,6 @@
 
 # Product Dissection of OLA – Ride-Hailing Platform
-Welcom
-e to the Product Dissection of OLA repository! This project explores the key components of OLA's ride-hailing platform, its business strategy, and the innovative solutions it offers to address real-world transportation challenges.
+Welcome to the Product Dissection of OLA repository! This project explores the key components of OLA's ride-hailing platform, its business strategy, and the innovative solutions it offers to address real-world transportation challenges.
 
 # Table of Contents
 - Introduction
@@ -14,7 +13,7 @@ e to the Product Dissection of OLA repository! This project explores the key com
 - Entity-Relationship Diagram
 - Conclusion
 
-#Introduction
+# Introduction
 
 OLA has transformed urban transportation by providing seamless connectivity between riders and drivers. This project takes an in-depth look at OLA's data architecture and operations, explaining how the platform delivers efficient, reliable, and user-friendly ride-hailing services that millions of people rely on daily.
 
@@ -25,14 +24,13 @@ Headquarters: Bangalore, India
 Mission: To provide convenient, transparent, and quick ride-hailing services through mobile and web platforms.
 
 # Product Dissection
-
-  *Key Features of OLA:*
-     - User Profiles: Personalize your experience with ride history, payment options, and preferences.
-     - Ride Booking: Book rides with ease, select vehicle options, and see fare estimates.
-     - Real-time Ride Tracking: Track your ride in real-time for added safety.
-     - Ride Sharing: Share rides with others to reduce costs and traffic congestion.
-     - Cashless Payment: Pay securely using the app for a hassle-free experience.
-     - Driver Ratings: Rate your driver and view ratings to ensure a quality service.
+*Key Features of OLA:*
+- User Profiles: Personalize your experience with ride history, payment options, and preferences.
+- Ride Booking: Book rides with ease, select vehicle options, and see fare estimates.
+- Real-time Ride Tracking: Track your ride in real-time for added safety.
+- Ride Sharing: Share rides with others to reduce costs and traffic congestion.
+- Cashless Payment: Pay securely using the app for a hassle-free experience.
+- Driver Ratings: Rate your driver and view ratings to ensure a quality service.
 
 # Real-World Problems Solved by OLA
 
@@ -80,11 +78,10 @@ The data architecture of OLA involves multiple entities, including Users, Driver
 - Rating Entity: Records user ratings for rides.
 - Location Entity: Stores geographical details.
 
-*ER Diagram*
+# ER Diagram
 The ER diagram represents the relationships between Users, Drivers, Rides, Payments, Ratings, and Locations within OLA's database schema. It highlights how different components of the platform interact to provide seamless ride-hailing services.
+![View ER Diagram](ER Diagram.png)
 
-![ER Diagram](path/to/your/er-diagram.png)
-
-*Conclusion*
+# Conclusion
 This project dissects the core components of OLA’s platform, revealing how it effectively addresses urban transportation challenges through innovative solutions, efficient data architecture, and a robust business strategy. By understanding its schema and data flow, we can appreciate the complexities behind OLA’s success in the ride-hailing industry.
 
