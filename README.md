@@ -81,7 +81,7 @@ The data architecture of OLA involves multiple entities, including Users, Driver
 # ER Diagram
 The ER diagram represents the relationships between Users, Drivers, Rides, Payments, Ratings, and Locations within OLA's database schema. It highlights how different components of the platform interact to provide seamless ride-hailing services.
 
-![ER Diagram](ER diagram.png)
+![ER Diagram](er.png)
 
 
 # Conclusion
